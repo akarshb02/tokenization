@@ -15,3 +15,6 @@ Tokenization Using Openzeppelin &amp; Truffle
 
 - Truffle
 - ERC20 Open-Zeppeline
+- web3
+-chai
+-
